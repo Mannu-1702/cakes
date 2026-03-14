@@ -1,0 +1,19 @@
+body{
+    background-image: url(cake5.webp);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+}
+form{
+    border: rgb(132, 17, 182);
+    width:250px;
+    margin-left: 50px;
+    margin-top: 30px;
+    padding-left: 20px;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px
+}
+label{
+    
+}

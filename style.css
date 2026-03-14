@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(cake22.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    #text1{
+        color: whitesmoke;
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+    #text2{
+        color: whitesmoke;
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+    #text3{
+        font-style: ;
+        color: whitesmoke;
+        margin-bottom: 20px;
+        margin-left: 50px
+    }
+button a{
+    font-size: 20px;
+    border-radius: 50px;
+}
+    button:hover{
+        background-color: rgb(255, 47, 227);
+    
+}
